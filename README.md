@@ -1,5 +1,7 @@
 # GlobeHaven Consulting – Next.js Landing Page
 
+
+URL: https://vercel.com/onyx5zs-projects/globehaven
 Next.js alapú bemutatkozó oldal GlobeHaven Consulting számára.
 
 ## Struktúra
